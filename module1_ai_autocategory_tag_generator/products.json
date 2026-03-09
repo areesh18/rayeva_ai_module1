@@ -1,0 +1,125 @@
+[
+  {
+    "id": 1773055322704,
+    "name": "Solid Conditioner Bar",
+    "description": "Moisturizing conditioner bar with shea butter and argan oil. Sulfate-free, paraben-free, packaged in compostable kraft paper. Equivalent to 2 plastic bottles.",
+    "primary_category": "Personal Care",
+    "sub_category": "Hair Care",
+    "seo_tags": [
+      "conditioner bar",
+      "zero waste hair care",
+      "plastic free conditioner",
+      "sulfate free",
+      "argan oil conditioner",
+      "shea butter hair care",
+      "sustainable beauty",
+      "eco-friendly conditioner"
+    ],
+    "sustainability_filters": [
+      "Plastic-Free",
+      "Compostable",
+      "Zero Waste",
+      "Biodegradable",
+      "Non-Toxic",
+      "Natural Ingredients"
+    ],
+    "created_at": "9/3/2026, 4:52:02 pm"
+  },
+  {
+    "id": 1773055352797,
+    "name": "Seed Paper Notebook",
+    "description": "A5 notebook with covers made from seed-embedded recycled paper. Plant the cover after use and grow wildflowers. Pages are 100% recycled.",
+    "primary_category": "Office & Stationery",
+    "sub_category": "Plantable Notebooks",
+    "seo_tags": [
+      "notebook",
+      "recycled paper",
+      "seed paper",
+      "wildflower seeds",
+      "plantable stationery",
+      "a5 notebook",
+      "eco-friendly office"
+    ],
+    "sustainability_filters": [
+      "Plastic-Free",
+      "Compostable",
+      "Recycled",
+      "Zero Waste",
+      "Biodegradable"
+    ],
+    "created_at": "9/3/2026, 4:52:32 pm"
+  },
+  {
+    "id": 1773055379049,
+    "name": "Cold Brew Coffee Kit",
+    "description": "Organic single-origin cold brew coffee kit. Packed in compostable pouches, fair trade certified, locally roasted in small batches in Coorg.",
+    "primary_category": "Food & Beverages",
+    "sub_category": "Coffee Kits & Brewing",
+    "seo_tags": [
+      "cold brew",
+      "organic coffee",
+      "single origin",
+      "coffee kit",
+      "coorg coffee",
+      "fair trade coffee",
+      "compostable packaging",
+      "artisan roasted"
+    ],
+    "sustainability_filters": [
+      "Compostable",
+      "Organic",
+      "Fair Trade",
+      "Locally Sourced"
+    ],
+    "created_at": "9/3/2026, 4:52:59 pm"
+  },
+  {
+    "id": 1773055393249,
+    "name": "Coir Seedling Pots",
+    "description": "Set of 20 biodegradable seedling pots made from compressed coconut coir. Plant directly into soil, no transplant shock, fully compostable.",
+    "primary_category": "Garden & Outdoors",
+    "sub_category": "Gardening Supplies",
+    "seo_tags": [
+      "biodegradable pots",
+      "coconut coir",
+      "seedling starter",
+      "eco-friendly gardening",
+      "compostable planters",
+      "no transplant shock",
+      "organic gardening",
+      "sustainable garden"
+    ],
+    "sustainability_filters": [
+      "Plastic-Free",
+      "Compostable",
+      "Zero Waste",
+      "Biodegradable",
+      "Natural Ingredients"
+    ],
+    "created_at": "9/3/2026, 4:53:13 pm"
+  },
+  {
+    "id": 1773055410351,
+    "name": "Organic Hemp Dog Leash",
+    "description": "Dog leash made from organic hemp rope with a recycled steel clasp. No synthetic dyes, naturally antimicrobial, biodegradable, and durable for large breeds.",
+    "primary_category": "Pet Care",
+    "sub_category": "Dog Leashes",
+    "seo_tags": [
+      "hemp dog leash",
+      "organic pet products",
+      "sustainable dog gear",
+      "heavy duty leash",
+      "eco-friendly leash",
+      "biodegradable dog leash",
+      "natural fiber leash"
+    ],
+    "sustainability_filters": [
+      "Plastic-Free",
+      "Recycled",
+      "Organic",
+      "Biodegradable",
+      "Non-Toxic"
+    ],
+    "created_at": "9/3/2026, 4:53:30 pm"
+  }
+]

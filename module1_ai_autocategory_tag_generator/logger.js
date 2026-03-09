@@ -13,7 +13,7 @@ export const logInteraction = (prompt, response) => {
 
   // 2. Add the new interaction to the list
   logs.push({
-    timestamp: new Date().toISOString(),
+    timestamp: new Date().toLocaleString("en-IN", { timeZone: "Asia/Kolkata" }),
     prompt,
     response
   });

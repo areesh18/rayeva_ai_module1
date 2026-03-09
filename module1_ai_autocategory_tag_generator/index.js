@@ -22,7 +22,7 @@ app.post("/analyze", async (req, res) => {
       name: name?.trim() || "Unnamed Product",
       description: description.trim(),
       ...aiResult,
-      created_at: new Date().toISOString(),
+      created_at: new Date().toLocaleString("en-IN", { timeZone: "Asia/Kolkata" }),
     };
     saveToCatalog(productRecord);
     res.json(productRecord);
