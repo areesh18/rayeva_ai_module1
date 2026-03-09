@@ -1,6 +1,6 @@
 import { GoogleGenerativeAI } from "@google/generative-ai";
 import dotenv from "dotenv";
-
+import { logInteraction } from "./logger.js";
 dotenv.config();
 
 const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
@@ -23,7 +23,9 @@ export const analyzeProduct = async (productDescription) => {
 
   const result = await model.generateContent(prompt);
   const response = await result.response;
-  
+  const jsonResponse = JSON.parse(response.text());
+  //logging 
+  logInteraction(prompt, jsonResponse);
 
-  return JSON.parse(response.text());
+  return jsonResponse;
 };

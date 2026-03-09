@@ -1,0 +1,48 @@
+[
+  {
+    "timestamp": "2026-03-09T10:08:23.742Z",
+    "prompt": "\n    Analyze this product: \"Set of 6 stretchable silicone food covers. A reusable alternative to plastic cling wrap. Leak-proof, dishwasher safe, and made from food-grade non-toxic silicone.\"\n    Return a JSON object with exactly these keys:\n    \"primary_category\", \"sub_category\", \"seo_tags\", \"sustainability_filters\"\n  ",
+    "response": {
+      "primary_category": "Kitchen & Dining",
+      "sub_category": "Food Storage",
+      "seo_tags": [
+        "silicone food covers",
+        "reusable stretch lids",
+        "eco-friendly kitchen wrap",
+        "BPA-free food storage",
+        "leak-proof covers",
+        "dishwasher safe lids"
+      ],
+      "sustainability_filters": [
+        "Reusable",
+        "Plastic-Free Alternative",
+        "Non-Toxic",
+        "Eco-Friendly"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-03-09T10:08:55.208Z",
+    "prompt": "\n    Analyze this product: \"Solid charcoal shampoo bar for oily hair. Packaged in a compostable cardboard box. Sulfate-free, paraben-free, and equivalent to 3 plastic bottles of liquid shampoo.\"\n    Return a JSON object with exactly these keys:\n    \"primary_category\", \"sub_category\", \"seo_tags\", \"sustainability_filters\"\n  ",
+    "response": {
+      "primary_category": "Personal Care",
+      "sub_category": "Hair Care",
+      "seo_tags": [
+        "charcoal shampoo bar",
+        "oily hair treatment",
+        "sulfate-free shampoo",
+        "plastic-free hair care",
+        "zero waste shampoo",
+        "natural shampoo bar"
+      ],
+      "sustainability_filters": [
+        "Compostable Packaging",
+        "Plastic-Free",
+        "Zero Waste",
+        "Sulfate-Free",
+        "Paraben-Free",
+        "Waterless Formula"
+      ]
+    }
+  }
+]
